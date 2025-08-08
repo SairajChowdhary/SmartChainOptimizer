@@ -1,4 +1,3 @@
-````markdown
 # 🚀 SmartChainOptimizer
 
 [![License](https://img.shields.io/github/license/SairajChowdhary/smartchainoptimizer.svg?style=flat-square)](LICENSE)
