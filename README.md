@@ -10,9 +10,7 @@
 ---
 
 <!-- Banner section: Insert your banner image link below -->
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=15ysDffSOrYaGafoEerIhpMxRo07xn-Jl" alt="smartchainoptimizer banner" width="80%" />
-</p>
+<img width="1391" height="767" alt="Github project image" src="https://github.com/user-attachments/assets/db5af1c2-de83-4aa5-938e-8652b7ac01d4" />
 
 ---
 
