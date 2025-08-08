@@ -11,7 +11,7 @@
 
 <!-- Banner section: Insert your banner image link below -->
 <p align="center">
-  <img src="<!-- INSERT_BANNER_LINK_HERE -->" alt="smartchainoptimizer banner" width="80%" />
+  <img src="(https://drive.google.com/file/d/15ysDffSOrYaGafoEerIhpMxRo07xn-Jl/view?usp=sharing)" alt="smartchainoptimizer banner" width="80%" />
 </p>
 
 ---
