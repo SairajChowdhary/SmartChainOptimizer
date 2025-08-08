@@ -1,3 +1,4 @@
+````markdown
 # 🚀 SmartChainOptimizer
 
 [![License](https://img.shields.io/github/license/SairajChowdhary/smartchainoptimizer.svg?style=flat-square)](LICENSE)
@@ -11,7 +12,7 @@
 
 <!-- Banner section: Insert your banner image link below -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/15ysDffSOrYaGafoEerIhpMxRo07xn-Jl/view?usp=sharing" alt="smartchainoptimizer banner" width="80%" />
+  <img src="https://drive.google.com/uc?export=view&id=15ysDffSOrYaGafoEerIhpMxRo07xn-Jl" alt="smartchainoptimizer banner" width="80%" />
 </p>
 
 ---
@@ -97,3 +98,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Have questions or suggestions?  
 Open an issue or reach out to [SairajChowdhary](https://github.com/SairajChowdhary) on GitHub.
+
+````
